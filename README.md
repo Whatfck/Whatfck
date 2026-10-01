@@ -15,7 +15,7 @@
 | | |
 |:-:|:-:|
 | <img src="https://cdn.simpleicons.org/linux/fcc624" width="28"/> <img src="https://cdn.simpleicons.org/docker/2496ed" width="28"/> <img src="https://cdn.simpleicons.org/githubactions/2088ff" width="28"/> | **Infrastructure:** Linux, Docker, GitHub Actions |
-| <i class="fa-brands fa-aws"></i> <img src="https://cdn.simpleicons.org/terraform/7b42bc" width="28"/> | **Cloud / DevOps:** AWS (Lambda, SQS/SNS, RDS), Terraform |
+| <img src="https://cdn.simpleicons.org/amazonwebservices/ff9900" width="28"/> <img src="https://cdn.simpleicons.org/terraform/7b42bc" width="28"/> | **Cloud / DevOps:** AWS (Lambda, SQS/SNS, RDS), Terraform |
 | <img src="https://cdn.simpleicons.org/prometheus/f2c14e" width="28"/> <img src="https://cdn.simpleicons.org/grafana/f46800" width="28"/> | **Observability:** Prometheus, Grafana |
 | <img src="https://cdn.simpleicons.org/gnometerminal/28b6bf" width="28"/> | **Networking & Security:** firewalling, container isolation, SSH hardening |
 | <img src="https://cdn.simpleicons.org/postgresql/4169e1" width="28"/> | **Databases:** PostgreSQL, SQL |
