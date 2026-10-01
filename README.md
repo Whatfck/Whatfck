@@ -4,7 +4,7 @@
 
 > I'm a software engineering student with a focus on backend, cloud infrastructure, and systems programming. Right now I'm working toward graduation in late 2027 and building real tools along the way. I enjoy learning new technologies, solving problems, and sharing useful tools with the community.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whatfck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Whatfck) [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Whatfck&theme=tokyonight&background=0D1117)](https://github.com/Whatfck)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Whatfck&theme=tokyonight&background=0D1117)](https://github.com/Whatfck)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## ⭐ Selected project
 
-**hot-clipboard** – small macOS CLI (`hc`/`hp`) for copy/paste between terminal and Finder using NSPasteboard. This is my favorite project because it solves a real need I have and I wanted to share it with the community.
+[**hot-clipboard**](https://github.com/Whatfck/hot-clipboard) – small macOS CLI (`hc`/`hp`) for copy/paste between terminal and Finder using NSPasteboard. This is my favorite project because it solves a real need I have and I wanted to share it with the community.
 
 <div align="center">
 
