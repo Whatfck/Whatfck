@@ -24,15 +24,17 @@
 
 ## ⭐ Selected project
 
-[**hot-clipboard**](https://github.com/Whatfck/hot-clipboard) – small macOS CLI (`hc`/`hp`) for copy/paste between terminal and Finder using NSPasteboard. This is my favorite project because it solves a real need I have and I wanted to share it with the community.
+<div align="center">
+ <img src="hot-clipboard-banner.svg" width="600"/>
+</div>
+
+hot-clipboard is a small macOS CLI (`hc`/`hp`) for copy/paste between terminal and Finder using NSPasteboard. This is my favorite project because it solves a real need I have and I wanted to share it with the community.
 
 <div align="center">
 
 [![GitHub repo](https://img.shields.io/badge/GitHub-hot--clipboard-F05033?style=flat-square&logo=github)](https://github.com/Whatfck/hot-clipboard) [![LICENSE](https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square)](https://github.com/Whatfck/hot-clipboard/blob/main/LICENSE) [![Built with](https://img.shields.io/badge/built%20with-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 
 </div>
-
----
 
 <div align="center">
   💛 💙 ❤️
