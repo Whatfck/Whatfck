@@ -4,7 +4,7 @@
 
 > I'm a software engineering student with a focus on backend, cloud infrastructure, and systems programming. Right now I'm working toward graduation in late 2027 and building real tools along the way. I enjoy learning new technologies, solving problems, and sharing useful tools with the community.
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Whatfck&theme=tokyonight&background=0D1117)](https://github.com/Whatfck)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whatfck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Whatfck)
 
 </div>
 
